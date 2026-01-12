@@ -3,7 +3,47 @@ guid: 8d957d9ef831f2b429e8938c6accce9d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antler
+    second: {fileID: 2100000, guid: 2d4811c3a247e174086097126b3b3250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antler.001
+    second: {fileID: 2100000, guid: bf8365162ea1b0d41925260bc1305672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fur
+    second: {fileID: 2100000, guid: ed0815c44213988489d5a142d0da67e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fur.001
+    second: {fileID: 2100000, guid: b48cfa5f764aaf44a83901371d9b8746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fur_accent
+    second: {fileID: 2100000, guid: 362908aa0b2a3444692e261634e9f372, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoof
+    second: {fileID: 2100000, guid: e8b9470af4e03a34295f37be33481a70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 85802fc82bb8fad48b5e02510124f358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: b7a0b63807192dc48aa8ce7e0b1107d1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -42,7 +82,7 @@ ModelImporter:
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
-    importLights: 1
+    importLights: 0
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
